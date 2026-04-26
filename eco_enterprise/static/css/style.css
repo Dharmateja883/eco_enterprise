@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    background-color: #eafaf1;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: green;
+}
+
+input, textarea, select {
+    padding: 8px;
+    margin: 5px;
+    width: 250px;
+}
